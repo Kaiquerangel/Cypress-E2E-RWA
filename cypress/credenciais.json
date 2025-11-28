@@ -1,0 +1,18 @@
+{
+    "login": {
+        "username": "Dina20",
+        "password": "s3cret"
+    },
+
+    "validUser":{
+        "firstName": "Dina20",
+        "lastName": "Silva",
+        "username": "Dina20",
+        "password": "s3cret"
+    },
+
+    "invalidUser":{
+        "username": "Dina20",
+        "password": "s2cret"
+    }
+}
